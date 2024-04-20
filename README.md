@@ -15,6 +15,12 @@ This a WiFi QRcode generator software. It is build based on python GUI framework
 
 </div>
 
+<div aligb = "center">
+
+<img src = "WiFi QR code Generator/images/QRCode.jpg">
+
+</div>
+
 
 ### Note:
 
