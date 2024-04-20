@@ -1,4 +1,4 @@
-# WiFi-_QRcode-Generator
+# WiFi_QRcode-Generator
 
 This a WiFi QRcode generator software. It is build based on python GUI framework (TKinter).
 
