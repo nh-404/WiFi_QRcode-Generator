@@ -3,19 +3,19 @@
 This a WiFi QRcode generator software. It is build based on python GUI framework (TKinter).
 
 
-<div aligb = "center">
+<div align = "center">
 
 <img src = "WiFi QR code Generator/images/wifi Qr.png">
 
 </div>
 
-<div aligb = "center">
+<div align = "center">
 
 <img src = "WiFi QR code Generator/images/file save.png">
 
 </div>
 
-<div aligb = "center">
+<div align = "center">
 
 <img src = "WiFi QR code Generator/images/QRCode.jpg">
 
