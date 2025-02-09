@@ -1,6 +1,9 @@
 # WiFi_QRcode-Generator
 
-This a WiFi QRcode generator software. It is build based on python GUI framework (TKinter).
+You can generate WiFi QR code with a single click, enabling secure access without sharing the password and able to print it as a PDF.
+
+
+
 
 
 <div align = "center">
@@ -21,11 +24,10 @@ This a WiFi QRcode generator software. It is build based on python GUI framework
 
 </div>
 
+### Web Version
 
-### Note:
+[![Website](https://img.shields.io/badge/Website-red)](https://wifi-qrcode.onrender.com/)
 
-<br> ➡️ You can use it on desktop like as linux, windows.
-<br> ➡️ Inshaallah Mobile based application will publish soon.
   
 ### For any query :
 
